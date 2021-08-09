@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rikaanjani
-- 👀 I’m interested in ... UX Design/Research and Front-end Development
-- 🌱 I’m currently learning ... UX Research Thinking and Web Dev
-- 💞️ I’m looking to collaborate on ... any websites!
-- 📫 How to reach me ... hello@rikaanjani.com
+- 👋 Hiya, I’m Rika!
+- 👀 I’m interested in UX Design/Research and Front-end Development
+- 🌱 I’m currently learning: HTML, CSS and Design Thinking
+- 💞️ I’m looking to collaborate on any websites!
+- 📫 You can reach me via: hello@rikaanjani.com
 
 <!---
 rikaanjani/rikaanjani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
