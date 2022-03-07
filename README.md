@@ -1,5 +1,5 @@
 - 👋 Hiya, I’m Rika!
-- 👀 I’m interested in UX Design/Research and Embedded Software
+- 👀 I’m interested in UX Design/Research and Embedded Software Engineering
 
 <!---
 rikaanjani/rikaanjani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
